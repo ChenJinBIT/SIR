@@ -1,5 +1,4 @@
 # A Pytorch Implementation of [Sequential Instance Refinement for Cross-Domain Object Detection in Images](https://ieeexplore.ieee.org/abstract/document/9387548) (TIP 2021) 
-<img src='./docs/framework.png' width=900/>
 
 ## Introduction
 Follow [faster-rcnn repository](https://github.com/jwyang/faster-rcnn.pytorch)
