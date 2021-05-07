@@ -37,11 +37,11 @@ to prepare data.
 
 ### Citation
 @article{chen2021sequential,
-  title={Sequential Instance Refinement for Cross-Domain Object Detection in Images},
-  author={Chen, Jin and Wu, Xinxiao and Duan, Lixin and Chen, Lin},
-  journal={IEEE Transactions on Image Processing},
-  volume={30},
-  pages={3970--3984},
-  year={2021},
-  publisher={IEEE}
+  title={Sequential Instance Refinement for Cross-Domain Object Detection in Images},  
+  author={Chen, Jin and Wu, Xinxiao and Duan, Lixin and Chen, Lin},  
+  journal={IEEE Transactions on Image Processing},  
+  volume={30},  
+  pages={3970--3984},  
+  year={2021},  
+  publisher={IEEE}  
 }
